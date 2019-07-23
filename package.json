@@ -1,0 +1,29 @@
+{
+  "name": "errDaddy-MySQL",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taprojects/errDaddy-MySQL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taprojects/errDaddy-MySQL/issues"
+  },
+  "homepage": "https://github.com/taprojects/errDaddy-MySQL#readme",
+  "devDependencies": {
+    "body-parser": "^1.19.0",
+    "eslint": "^6.1.0",
+    "express": "^4.17.1",
+    "jest": "^24.8.0",
+    "morgan": "^1.9.1",
+    "nodemon": "^1.19.1",
+    "supertest": "^4.0.2"
+  }
+}
